@@ -1,0 +1,246 @@
+{
+    "History": [
+        {
+            "type": 1,
+            "invoice": "9220506403",
+            "data": [
+                {
+                    "offset": 0,
+                    "slNo": 0,
+                    "PartNo": "2-28-3207",
+                    "partName": "TUBE YOKE",
+                    "UQC": "NOS",
+                    "net": 0,
+                    "totalQuantity": 810,
+                    "dispQuantity": 810,
+                    "balQuantity": 810,
+                    "total": 0.0
+                },
+                {
+                    "offset": 0,
+                    "slNo": 1,
+                    "PartNo": "2-28-1697",
+                    "partName": "TUBE YOKE",
+                    "UQC": "NOS",
+                    "net": 0.895,
+                    "totalQuantity": 1620,
+                    "dispQuantity": 1620,
+                    "balQuantity": 1620,
+                    "total": 1449.9
+                },
+                {
+                    "offset": 0,
+                    "slNo": 2,
+                    "PartNo": 10017645,
+                    "partName": "END YOKE",
+                    "UQC": "NOS",
+                    "net": 1.45,
+                    "totalQuantity": 630,
+                    "dispQuantity": 630,
+                    "balQuantity": 630,
+                    "total": 913.5
+                },
+                {
+                    "offset": 0,
+                    "slNo": 3,
+                    "PartNo": 10146808,
+                    "partName": "END YOKE ASSEMBLY",
+                    "UQC": "NOS",
+                    "net": 1.77,
+                    "totalQuantity": 1848,
+                    "dispQuantity": 1848,
+                    "balQuantity": 1848,
+                    "total": 3270.96
+                },
+                {
+                    "offset": 0,
+                    "slNo": 4,
+                    "PartNo": 10178193,
+                    "partName": "COMPANION FLANGE ASSY",
+                    "UQC": "NOS",
+                    "net": 0,
+                    "totalQuantity": 720,
+                    "dispQuantity": 720,
+                    "balQuantity": 720,
+                    "total": 0.0
+                },
+                {
+                    "offset": 0,
+                    "slNo": 5,
+                    "PartNo": 10177087,
+                    "partName": "END YOKE ASSEMBLY",
+                    "UQC": "NOS",
+                    "net": 0,
+                    "totalQuantity": 240,
+                    "dispQuantity": 240,
+                    "balQuantity": 240,
+                    "total": 0.0
+                },
+                {
+                    "offset": 0,
+                    "slNo": 6,
+                    "PartNo": "6-40-541",
+                    "partName": "TUBE SHAFT",
+                    "UQC": "NOS",
+                    "net": 5.83,
+                    "totalQuantity": 144,
+                    "dispQuantity": 144,
+                    "balQuantity": 144,
+                    "total": 839.52
+                },
+                {
+                    "offset": 0,
+                    "slNo": 7,
+                    "PartNo": 10154178,
+                    "partName": "FLANGE YOKE",
+                    "UQC": "NOS",
+                    "net": 0.92,
+                    "totalQuantity": 1820,
+                    "dispQuantity": 1820,
+                    "balQuantity": 1820,
+                    "total": 1674.4
+                },
+                {
+                    "offset": 0,
+                    "slNo": 8,
+                    "PartNo": 10174758,
+                    "partName": "END YOKE ASSEMBLY",
+                    "UQC": "NOS",
+                    "net": 0.79,
+                    "totalQuantity": 896,
+                    "dispQuantity": 896,
+                    "balQuantity": 896,
+                    "total": 707.84
+                },
+                {
+                    "offset": 0,
+                    "slNo": 9,
+                    "PartNo": 10175496,
+                    "partName": "FLANGE YOKE",
+                    "UQC": "NOS",
+                    "net": 1.33,
+                    "totalQuantity": 1372,
+                    "dispQuantity": 1372,
+                    "balQuantity": 1372,
+                    "total": 1824.76
+                },
+                {
+                    "offset": 0,
+                    "slNo": 10,
+                    "PartNo": 10091619,
+                    "partName": "SLIP YOKE ASSEMBLY",
+                    "UQC": "NOS",
+                    "net": 1.813,
+                    "totalQuantity": 490,
+                    "dispQuantity": 490,
+                    "balQuantity": 490,
+                    "total": 888.37
+                },
+                {
+                    "offset": 0,
+                    "slNo": 11,
+                    "PartNo": 10110017,
+                    "partName": "TUBE SHAFT",
+                    "UQC": "NOS",
+                    "net": 2.21,
+                    "totalQuantity": 490,
+                    "dispQuantity": 490,
+                    "balQuantity": 490,
+                    "total": 1082.9
+                },
+                {
+                    "offset": 0,
+                    "slNo": 12,
+                    "PartNo": 10026061,
+                    "partName": "SLIP YOKE ASSEMBLY",
+                    "UQC": "NOS",
+                    "net": 0,
+                    "totalQuantity": 644,
+                    "dispQuantity": 644,
+                    "balQuantity": 644,
+                    "total": 0.0
+                },
+                {
+                    "offset": 0,
+                    "slNo": 13,
+                    "PartNo": "2-28-1707",
+                    "partName": "TUBE YOKE",
+                    "UQC": "NOS",
+                    "net": 0.698,
+                    "totalQuantity": 810,
+                    "dispQuantity": 810,
+                    "balQuantity": 810,
+                    "total": 565.38
+                },
+                {
+                    "offset": 0,
+                    "slNo": 14,
+                    "PartNo": 10313178,
+                    "partName": "SLIP YOKE ASSEMBLY",
+                    "UQC": "NOS",
+                    "net": 2.01,
+                    "totalQuantity": 530,
+                    "dispQuantity": 530,
+                    "balQuantity": 530,
+                    "total": 1065.3
+                },
+                {
+                    "offset": 0,
+                    "slNo": 15,
+                    "PartNo": "3-28-557",
+                    "partName": "TUBE YOKE",
+                    "UQC": "NOS",
+                    "net": 1.18,
+                    "totalQuantity": 520,
+                    "dispQuantity": 520,
+                    "balQuantity": 520,
+                    "total": 613.6
+                }
+            ],
+            "name": "9220506403- 27, April 2023- 17:09",
+            "binNo": 123,
+            "emptyBinWeigh": 5.23,
+            "seqNo" : 1
+        },
+        {
+            "type": 1,
+            "invoice": "9220506459",
+            "data": [
+                {
+                    "offset": 0,
+                    "slNo": 0,
+                    "PartNo": 5015802,
+                    "partName": "SLIP YOKE ASSY",
+                    "UQC": "NOS",
+                    "net": 0,
+                    "totalQuantity": 212,
+                    "dispQuantity": 212,
+                    "balQuantity": 212,
+                    "total": 0.0
+                },
+                {
+                    "offset": 0,
+                    "slNo": 1,
+                    "PartNo": 5016006,
+                    "partName": "TUBE SHAFT",
+                    "UQC": "NOS",
+                    "net": 0,
+                    "totalQuantity": 212,
+                    "dispQuantity": 212,
+                    "balQuantity": 212,
+                    "total": 0.0
+                }
+            ],
+            "name": "9220506459- 27, April 2023- 17:09",
+            "binNo": 127,
+            "emptyBinWeigh": 3.33,
+            "seqNo" : 2
+        }
+    ],
+    "FileData": {
+        "f1": "",
+        "f2": "",
+        "f3": ""
+    },
+    "SequenceCounter":2
+}
