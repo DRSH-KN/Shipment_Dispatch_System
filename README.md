@@ -18,4 +18,12 @@ Current Features
 * History of Verified Shipment Via JSON.
 * Crate Label Generation After Verification with PDF.
 
+Modules
+----------------
+* Main.py - Main execution module.
+* RFID.py - Connects with Arduino coupled with RFID MFRC-522 - Any Arduino can be used. Pin Out provided in official MFRC 522 Documentation
+* Weight.py - Connects to Weight Scale For Shipment Verification and Shipment Creation Connected via R232 Serial Port.
+* ui.py - main GUI Interface Module for PyQT5
+* Arduino Code - Contains C Script for Arduino With MFRC522 Module. Takes in MFRC Library provided in GITHUB.
+
 
